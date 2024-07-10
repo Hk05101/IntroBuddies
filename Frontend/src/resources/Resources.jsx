@@ -7,7 +7,7 @@ function Resources() {
   return (
     <>
     <Navbar></Navbar>
-    <div className='min-h-screen'>
+    <div className='min-h-screen '>
         <Resource></Resource>
     </div>
     <Footer></Footer>

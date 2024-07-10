@@ -13,7 +13,7 @@ function Banner() {
                 Thapar Institute of Engineering and Technology !!
               </span>
             </h1>
-            <p className="text-xl font-semibold pr-2">
+            <p className="text-xl  pr-2">
               A place where dreams take flight and innovation thrives! Your
               journey here will be filled with opportunities, challenges, and
               unforgettable moments. <br />
