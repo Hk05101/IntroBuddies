@@ -1,13 +1,18 @@
 import React from 'react'
-import Navbar from './components/Navbar'
-import Banner from './components/Banner'
+import Home from './home/Home'
+import { Route, Routes } from 'react-router-dom'
+import Resources from './resources/Resources'
 
 function App() {
   return (
-    <div>
-      <Navbar></Navbar>
-      <Banner></Banner>
-    </div>
+    <>
+      <div className=" dark:bg-slate-900 dark:text-white">
+      <Routes>
+        <Route path='/' element={<Home />}></Route>
+        <Route path='/resources' element={<Resources></Resources>}></Route>
+      </Routes>
+      </div>
+    </>
   )
 }
 
