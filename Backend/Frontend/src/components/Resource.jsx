@@ -8,7 +8,7 @@ function Resource() {
     useEffect(()=>{
         const getResource = async () => {
             try {
-                const res = await axios.get("http://localhost:4001/resource")
+                const res = await axios.get("/resource")
                 console.log(res.data)
                 setResource(res.data)
             } catch (error) {
