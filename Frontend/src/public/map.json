@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "subtitle": "The Crib (Main Admin Building)",
+        "img": "https://i.ibb.co/hMMwyHG/133067234-524824415167785-1576405590261589079-n.jpg",
+        "content": "This is where the big cheese (administration) hangs out. Don't get caught crashin' their pad unless you got a legit reason (like snagging a scholarship or dodging a parking ticket)."
+    },
+    {
+        "id": 2,
+        "subtitle": "The Brain Trust (Library)",
+        "img": "https://i.ibb.co/tc5ZYhf/449607690-972416721249940-3344775403740173082-n.jpg",
+        "content": "Need to cram for finals or avoid that awkward hallway run-in with your ex? This is your haven. Just shhh, keep it low-key, knowledge seekers!"
+    },
+    {
+        "id": 3,
+        "subtitle": "The Code Forge (CS Block)",
+        "img": "https://i.ibb.co/0VkcF3x/419550561-374238378559512-3011912102296152328-n.jpg",
+        "content": "Where tech wizards and keyboard warriors craft the future (or at least learn how to code)."
+    },
+    {
+        "id": 4,
+        "subtitle": "The Knowledge Hub (F Block & Tan Block)",
+        "img": "https://i.ibb.co/mFFcgkz/428956300-1698875327187678-8797038326203254303-n.jpg",
+        "content": "Dive deep into whatever floats your academic boat - history, literature, you name it! Just don't get lost in the rabbit hole."
+    },
+    {
+        "id": 5,
+        "subtitle": "The Dorms (Hostels)",
+        "img": "https://i.ibb.co/RjWhwc8/400414841-1049179572932030-4313366868358149655-n-1.jpg",
+        "content": "Brace yourself for a wild ride, from late-night study sessions fueled by questionable instant ramen to epic parties that'll leave you reminiscing (or regretting) for years to come."
+    },
+    {
+        "id": 6,
+        "subtitle": "The Grub Hub (Canteen & Street Cafe)",
+        "img": "https://i.ibb.co/6rYycx3/435107924-311452495019467-3023693258761129493-n.jpg",
+        "content": "Where sustenance meets questionable hygiene. But hey, desperate times call for greasy spoon delights and questionable coffee."
+    },
+    {
+        "id": 7,
+        "subtitle": "The Feasting Ground (Aahar)",
+        "img": "https://i.ibb.co/dMf9HHt/Aahar.jpg",
+        "content": "Heard rumors of legendary buffets and questionable dining etiquette? This, my friend, is where the magic (and occasional food coma) happens."
+    },
+    {
+        "id": 8,
+        "subtitle": "The Stadium Showdown (Cricket Ground)",
+        "img": "https://i.ibb.co/HprJ1k6/429159019-7147991941974940-7220065799402351175-n.jpg",
+        "content": "Witness epic battles between rival dorms or cheer on your uni's team as they dominate the pitch (hopefully)."
+    },
+    {
+        "id": 9,
+        "subtitle": "The Cardio Circus (Synthetic Track & Batting Ground)",
+        "img": "https://i.ibb.co/3NYLT39/404886190-261948999861157-7907258949954878582-n.jpg",
+        "content": "Get your fitness fix and maybe impress that cutie with your impressive running form (or hilarious strikeout attempts)."
+    },
+    {
+        "id": 10,
+        "subtitle": "The Oasis (Lawns)",
+        "img": "https://i.ibb.co/KyS8W6F/lawns.jpg",
+        "content": "Escape the hustle and bustle with a frisbee throw or a nap under the shady trees. Just be prepared for surprise frisbee attacks or territorial squirrels."
+    },
+    {
+        "id": 11,
+        "subtitle": "The Marketplace (Cos)",
+        "img": "https://i.ibb.co/Pr7yWRM/448918077-1187474292610235-5502911302019225148-n.jpg",
+        "content": "Need a last-minute phone charger, a questionable souvenir, or just a friendly face? This is your one-stop shop (except for actual groceries, because...questionable)."
+    },
+    {
+        "id": 12,
+        "subtitle": "The Bhakti Maarg (Mandir/Gurudwara Sahib)",
+        "img": "https://i.ibb.co/ynnyd8B/Gurudwara-sahib.jpg",
+        "content": "Find inner peace (or a quiet place to nap) at this place of worship. Remember, silence is golden (especially during prayer times)."
+    }
+]

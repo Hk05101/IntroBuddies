@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "subtitle": "OPEN DAY",
+        "img": "https://thapar.edu/images/EEESyllabus/societies1.jpg",
+        "content": "Ready to Discover, Innovate, and Have a Blast? This is the day we open our doors and hearts just for you! Dive into epic sessions, explore our lush green campus, and check out iconic spots and world-class facilities. Our super-friendly guides will spill all the deets that make TIET the coolest place to study and chill. Chat with our awesome faculty for the latest trends, career hacks, and how TIET gears you up for anything the future throws your way. Experience the welcoming, supportive, and totally awesome vibes that make TIET feel like home. Get ready to be amazed!"
+    },
+    {
+        "id": 2,
+        "subtitle": "Freshers' Week Bash by Frosh Society!",
+        "img": "https://i.ibb.co/kcNF4ch/FROSH-WEEK.jpg",
+        "content": "Get ready for an epic start to the school year! The Frosh Society is pulling out all the stops with games, fun activities, stunning La Caminar walks, and a concert featuring a top-tier singer! And that's not all—prepare to be dazzled by cultural performances that'll leave you speechless. Plus, you'll have the chance to hang out with the big shots like Director Prof. Padmakumar Nair, Prof. Maninder Singh, Prof. Inderveer Chana, and many more of our awesome faculty.Forget the books this week—it's all about soaking in the good times. This is your chance to let loose, make memories, have fun with your newly made friends and dive deep into the TIET spirit. It's gonna be lit!"
+    },
+    {
+        "id": 3,
+        "subtitle": "Society Fair: Where Your Passion Finds Its Squad!",
+        "img": "https://i.ibb.co/2Wv1mRy/Soc-Fair.jpg",
+        "content": "Yo, get set for the Society Fair hype where every vibe finds its tribe. From dance-offs to coding showdowns, there's a crew for every mood. Connect, skill up, and dive deep into the scene. It's not just about fitting in—it's about owning your lane. Soak up the diversity, make epic bonds, and kickstart your journey with experiences that scream college life. Get ready to rock in a community buzzing with vibes and limitless possibilities!"
+    },
+    {
+        "id": 4,
+        "subtitle": "Thapar Food Festival (TFF): Taste Explosion on Campus!",
+        "img": "https://i.ibb.co/Pg83HDN/TFF.jpg",
+        "content": "A foodie paradise where all your cravings meet. Sponsored by big names, TFF brings gourmet bites and street eats to one spot. With a ticket, eat all you want—but beware, the lines are long and the time's short. Still, the flavours are so good, you might not mind the rush. Don't just eat, dive into TFF—where every bite's a thrill!"
+    },
+    {
+        "id": 5,
+        "subtitle": "Saturnalia at Thapar: Unleash the Party Animal in You!",
+        "img": "https://i.ibb.co/n6ZV90d/404273623-252037241219071-2896435750092764955-n.jpg",
+        "content": "Saturnalia, one of the largest annual techno-cultural fest of North India, stands as a symbol of pride for TIET, Patiala. Step into Saturnalia, the ultimate fusion of tradition and contemporary cool. This isn't just any fest—it's a vibe revolution with top-tier DJs, mind-blowing performances, and a campus lit up with excitement. Join the party where every moment sparks a new thrill, and the memories you make are legendary. Embrace the spirit of Saturnalia and discover why it's the heartbeat of our campus culture!"
+    },
+    {
+        "id": 6,
+        "subtitle": "Hackathons: Where Innovation Gets Real!",
+        "img": "https://i.ibb.co/km3cw9s/IMG-3853.jpg",
+        "content": "Get geeked for the hackathon scene by OWASP, CCS, ACM, MLSC—these crews mean business when it comes to coding wizardry and cybersecurity showdowns. It's not just about hacking code; it's about hacking problems and unleashing your tech ninja skills. Dive into intense challenges, collaborate with brainiacs, and crank out solutions that could change the game. Whether you're a coding prodigy or a cybersecurity ace, these hackathons are where ideas ignite and innovation rocks. Ready to hack the future?"
+    },
+    {
+        "id": 7,
+        "subtitle": "Society Events: Unleash the Cultural Vibes!",
+        "img": "https://i.ibb.co/jfgRq20/413426989-894279585327628-2551046473267225291-n.jpg",
+        "content": "From Virsa Night to Virsa Mela, Mudranite, and Urja, these events are where the campus comes alive with cultural flair! Picture nights filled with music that hits different, festivals bursting with creativity, and showcases that light up the stage. It's more than just events—it's a vibe that connects us all. Join in, celebrate diversity, and make memories that define your TIET journey!"
+    }
+]
