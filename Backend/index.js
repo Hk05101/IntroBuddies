@@ -5,7 +5,7 @@ import cors from 'cors';
 
 import resourceRoute from './route/resource.route.js';
 import userRoute from './route/user.route.js'
-import path from 'path';
+import path from 'path'
 
 const app = express();
 
@@ -32,9 +32,9 @@ app.use('/user', userRoute)
 
 if(process.env.NODE_ENV === "production") {
     const dirPath = path.resolve();
-    app.use(express.static("./Frontend/dist"));
+    app.use(express.static("Frontend/dist"));
     app.get("*",(req,res) => {
-        res.sendFile(path.resolve(dirPath,"./Frontend/dist","index.html"));
+        res.sendFile(path.resolve(dirPath,"Frontend/dist","index.html"));
     })
 }
 
