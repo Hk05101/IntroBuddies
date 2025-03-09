@@ -132,7 +132,6 @@ Backend/
 
 - Vedant Anand
 - Harnoor
-- Deepesh
 
 ## License 📝
 
